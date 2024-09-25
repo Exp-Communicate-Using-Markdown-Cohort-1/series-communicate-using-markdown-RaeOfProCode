@@ -13,3 +13,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 print("Hello World")
 ```
+
+# Adding a Task List
+- [ ] Adding a Task List
+- [ ] Adding an Image
+- [ ] Markdown Completion
